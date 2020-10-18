@@ -54,3 +54,17 @@ a:focus {
 .menu_list:hover {
   border-bottom: 2px solid #f8e1b4;
 }
+
+.slick-slider {
+  max-height: 450px;
+}
+
+.carousel {
+  width: 100%;
+  overflow: hidden;
+}
+
+.carousel_img {
+  width: 100%;
+  height: auto;
+}
